@@ -1,7 +1,6 @@
 # CNN-Model-CIFAR-10-Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1je2BLAHlnh1_DZT7iVBuyKj7yUkBBDQK#scrollTo=pEN6FqI-i2XV)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1je2BLAHlnh1_DZT7iVBuyKj7yUkBBDQK#scrollTo=pEN6FqI-i2XV)
 
 ## Project Description
 
