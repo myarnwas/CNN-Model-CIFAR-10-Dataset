@@ -6,6 +6,7 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset.
 It follows 6 main phases as taught in our lectures:
+
 	1.	Load the dataset
 	2.	Display and visualize the data
 	3.	Build the CNN model
@@ -21,3 +22,7 @@ It follows 6 main phases as taught in our lectures:
 ## How to Run
 
 Click the “Open in Colab” button above and run all cells in order.
+
+
+## watch the vedio
+[click here to open vedio at Google drive](https://drive.google.com/file/d/1HUAJv8oRqM7lAA4T08uiSargkRS04iXS/view?usp=sharing)
