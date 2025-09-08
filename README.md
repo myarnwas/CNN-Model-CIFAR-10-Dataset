@@ -22,3 +22,8 @@ It follows 6 main phases as taught in our lectures:
 ## How to Run
 
 Click the “Open in Colab” button above and run all cells in order.
+
+
+## watch the vedio
+
+[click here to open vedio at Google drive](https://drive.google.com/file/d/1HUAJv8oRqM7lAA4T08uiSargkRS04iXS/view?usp=sharing)
